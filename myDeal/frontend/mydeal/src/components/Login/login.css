@@ -1,0 +1,27 @@
+.login {
+    justify-content: center;
+    padding: 20%;
+    padding-top: 3%;
+  
+}
+.login p {
+    background-color: rgba(0, 0, 255, 0.075);
+    font-style: italic;
+}
+p#felmessage {
+background-color: antiquewhite;
+color: brown;
+}
+button.login-send{
+    width: 100px;
+    height: 30px;
+    font-size: larger;
+  margin-left: 10%;
+  background-color: rgba(0, 0, 255, 0.075);
+  border-style:ridge;
+  border-width: 1px;
+  border-color: rgb(191, 191, 239);
+  box-shadow: 3px 3px;
+}
+
+

@@ -1,0 +1,17 @@
+.error-div{
+    justify-content: center;
+display: flex;
+flex-direction: row;
+    margin:10%;
+}
+
+.errorImg{
+    width:30%;
+    height: 30%;
+}
+.error-div p{
+    font-size: 30px;
+    color: brown;
+    text-align: center;
+
+}

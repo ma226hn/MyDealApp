@@ -1,0 +1,40 @@
+.Offers {
+    padding: 2%;
+
+    max-width: 600px;
+}
+.Offers h3 {
+  
+    color:rgb(133, 77, 5) ;
+    text-align: center;
+    font-style: italic;
+}
+.Offers p {
+    background-color: rgb(241, 239, 241);
+    text-align: center;
+    max-width: 500px;
+    overflow-wrap: break-word;
+}
+.Offers p i {
+    color: rgb(79, 5, 5);
+    font-weight:500;
+}
+.flex-div {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    
+}
+.nested-div
+{
+    justify-content: center;
+    padding-top: 5%;
+}
+.logo-div {
+    justify-content: center;
+    background-color: rgb(237, 223, 236);
+    display: flex;
+    flex-direction: row;
+    
+    
+}

@@ -1,0 +1,50 @@
+.p-register {
+ 
+    font-size: larger;
+    font-style: oblique;
+    color: blue;
+    width: 100%;
+   text-align: center;
+}
+.img-register{
+    width: 60%;
+    max-height:300px;
+    padding-left: 20%;
+}
+.register-form{
+    justify-content: center;
+    text-align: center;
+}
+img.logo2-img{
+    width: 100px;
+    height: 100px;
+    
+}
+p.text-danger{
+    font-size:small;
+    color: brown;
+  
+}
+
+.rigester-button {
+
+    background-color: unset;
+    background-size:50%;
+    width: 100px;
+    height:50px;
+    border-style: none;
+    font-size: larger;
+    border-style: outset;
+    box-shadow: 0px 3px 3px  rgb(202, 214, 231);
+    border-color: rgb(160, 160, 245);
+    border-right: 0px;
+    border-top: 0px;
+    margin-left: 30px;
+   
+    
+}
+.rigester-button:hover{
+    background-color: rgb(232, 236, 239);
+    color: brown;
+    border-style: double;
+}

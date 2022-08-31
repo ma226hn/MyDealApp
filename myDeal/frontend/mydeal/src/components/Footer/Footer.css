@@ -1,0 +1,13 @@
+.footer {
+position: fixed;
+    padding: 0%;
+    margin: 0%;
+    background-color:rgb(199, 204, 241);
+    left: 0;
+    bottom: 0 ;
+    
+  }
+  .footer p {
+    padding: 0%;
+    margin: 0%;
+  }

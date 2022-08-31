@@ -1,0 +1,11 @@
+.showoffers {
+    margin-top: 0%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 0%;
+}
+.noOffers {
+    margin : 20%;
+    font-size: xx-large;
+    color: blue;
+}
